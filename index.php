@@ -2,7 +2,7 @@
 
 class cof{
 	public $Md5Code="298923c8190045e91288b430794814c4"; //code: 1015 altere para um code mais grande
-	public $bitcoins="1ApFYECf8r66xk1z3Pm5uQY2y8Xsd7mCii"; // endereço de sua carteira bitcoins
+	public $bitcoins="1Aee3e3e3e3e"; // endereço de sua carteira bitcoins
 	public $R="500";										// preço do resgate
 	public $nkey=5; 											//nao altere.
 }
